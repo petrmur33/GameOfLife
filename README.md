@@ -18,4 +18,4 @@ ESC - quit the game
 Other
 -----
 
-Has some glitchy rendering when 8 process specified
+Has some glitchy rendering when 12 process specified
